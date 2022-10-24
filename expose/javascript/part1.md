@@ -1,4 +1,4 @@
-<br>question 1: values added: 20
+question 1: values added: 20
 <br>question 2: final result: 20
 <br>question 3: values added: 20
 <br>question 4: Error - variable result not defined in this scope

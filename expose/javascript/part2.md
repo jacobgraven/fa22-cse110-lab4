@@ -1,4 +1,4 @@
-<br>question 1: 3 is printed because the final i value is 3 (for loop terminated because the index is 3)
+question 1: 3 is printed because the final i value is 3 (for loop terminated because the index is 3)
 <br>question 2: 150 is printed because it is the discounted price on the final iteration)
 <br>question 3: 150 is printed because finalPrice is just discountedPrice rounded
 <br>question 4: [50, 100, 150] is returned because this is the list of discounted prices computed in the function (each price reduced by 1/2)

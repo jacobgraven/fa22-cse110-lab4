@@ -1,4 +1,4 @@
-<br>question 1: citylots.json
+question 1: citylots.json
 <br>question 2: expose.js
 <br>question 3: 11.7 MB (chrome says 11.7MB Firefox says 11.15MB :thinking:)
 <br>question 4: 90 ms
